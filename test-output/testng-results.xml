@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T12:04:00 BDT" name="Orange-HRM" finished-at="2024-02-28T12:04:48 BDT" duration-ms="48259">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T12:04:00 BDT" name="Test" finished-at="2024-02-28T12:04:48 BDT" duration-ms="48259">
+      <class name="com.it.bd.tests.AddEmployeeTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.it.bd.tests.AddEmployeeTest@6e535154]" started-at="2024-02-28T12:04:20 BDT" name="openUrl" finished-at="2024-02-28T12:04:25 BDT" duration-ms="5470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="testAddEmployeeMethod()[pri:0, instance:com.it.bd.tests.AddEmployeeTest@6e535154]" started-at="2024-02-28T12:04:25 BDT" name="testAddEmployeeMethod" finished-at="2024-02-28T12:04:39 BDT" duration-ms="13775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddEmployeeMethod -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.AddEmployeeTest@6e535154]" started-at="2024-02-28T12:04:39 BDT" name="report" finished-at="2024-02-28T12:04:39 BDT" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.AddEmployeeTest -->
+      <class name="com.it.bd.tests.LogoutTest">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.it.bd.tests.LogoutTest@15a34df2]" started-at="2024-02-28T12:04:39 BDT" name="openUrl" finished-at="2024-02-28T12:04:45 BDT" duration-ms="5476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="testLogoutMethod()[pri:0, instance:com.it.bd.tests.LogoutTest@15a34df2]" started-at="2024-02-28T12:04:45 BDT" name="testLogoutMethod" finished-at="2024-02-28T12:04:48 BDT" duration-ms="3064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogoutMethod -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.LogoutTest@15a34df2]" started-at="2024-02-28T12:04:48 BDT" name="report" finished-at="2024-02-28T12:04:48 BDT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+      </class> <!-- com.it.bd.tests.LogoutTest -->
+      <class name="com.it.bd.tests.LoginTest">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:com.it.bd.tests.LoginTest@239a307b]" started-at="2024-02-28T12:03:58 BDT" name="startBrowser" finished-at="2024-02-28T12:04:00 BDT" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:com.it.bd.tests.LoginTest@239a307b]" started-at="2024-02-28T12:04:00 BDT" name="openUrl" finished-at="2024-02-28T12:04:08 BDT" duration-ms="8479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="testLoginMethod()[pri:0, instance:com.it.bd.tests.LoginTest@239a307b]" started-at="2024-02-28T12:04:08 BDT" name="testLoginMethod" finished-at="2024-02-28T12:04:19 BDT" duration-ms="10960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginMethod -->
+        <test-method is-config="true" signature="report()[pri:0, instance:com.it.bd.tests.LoginTest@239a307b]" started-at="2024-02-28T12:04:19 BDT" name="report" finished-at="2024-02-28T12:04:20 BDT" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.it.bd.tests.LoginTest@239a307b]" started-at="2024-02-28T12:04:48 BDT" name="closeBrowser" finished-at="2024-02-28T12:04:48 BDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.it.bd.tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Orange-HRM -->
+</testng-results>

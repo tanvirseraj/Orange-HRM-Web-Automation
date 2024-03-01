@@ -1,4 +1,4 @@
-# OrangeHRM_UIAutomationFrameWork
+# Orange HRM Web Automation FrameWork
 Writing and automating test cases for Open Source OrangeHRM HR Software. UI Automation framework is based on Page Object Model design pattern and using Selenium, Java, TestNg, Maven, Git, Extent Reports.
 
 This is a Maven project that implements a Page Object Model design pattern using Selenium WebDriver with TestNg written in Java and uses TestNg assertion. 

@@ -18,7 +18,7 @@ The following flows have been automated:
    • Maven (Build Automation Tool)   
    • Apache POI API (Read-Write utilities for Excel - Test Data Handling) SpringToolSuite 4 (Java Editor)     
    • Extent Report
-   • Browser - Google Chrome/FF  
+   • Browser - Google Chrome
 
 # Page Object Model
 Page Object Model, also known as POM, is a design pattern in Selenium that creates an object repository for storing all web elements. It is useful in reducing code duplication and improves test case maintenance.
